@@ -1,6 +1,7 @@
 .devcontainer
 .vscode
 .cache
+.DS_Store
 build
 managed_components
 sdkconfig.old
